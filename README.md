@@ -1,7 +1,7 @@
 # Dictionary Search Chrome Extension
 
 ## Overview
-Dictionary Search is a Chrome extension that allows users to search for word definitions, phonetics, and examples directly from their browser. By double-clicking on any word in a webpage, users can quickly access detailed information about the word.
+Dictionary Search is a Chrome extension that allows users to search for word definitions, phonetics, and examples directly from their browser.  Copy the word in a webpage, users can quickly access detailed information about the word.
 
 ## Features
 - Search for word definitions, phonetics, and examples
