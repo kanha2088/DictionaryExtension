@@ -1,0 +1,22 @@
+
+
+
+body{
+  width: 350px;
+  height: fit-content;
+  padding: 20px;
+}
+
+
+.wordspeech{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 90px;
+}
+.wordspeech button{
+  height: 20px;
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
